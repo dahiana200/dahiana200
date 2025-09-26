@@ -48,7 +48,7 @@
 
 ---
 
-## 🐾 Animación de gatitos
+## 🐾 Animación de gatito
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
 </p>
@@ -57,9 +57,11 @@
 
 ## 🌐 Encuéntrame en:
 <p align="center">
-  <a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/TU_USUARIO"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:Minsshijoo@gmail.com"><img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/dahiana200"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://facebook.com/profile.php?id=100089891221509"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/damdam_dmi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/@Daydamdam"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
@@ -67,3 +69,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=150&section=footer" />
 </p>
+
