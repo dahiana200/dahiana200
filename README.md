@@ -3,7 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=150&section=header" />
 </p>
 
-<h1 align="center">✨ ¡Hola! Soy <span style="color:#7c3aed">Dahiana</span> ✨</h1>
+<h1 align="center">
+  ✨ ¡Hola! Soy <span style="color:#7c3aed; font-family:'Comic Sans MS';">Dahiana</span> ✨
+</h1>
+
 
 <p align="center">
   💻 Estudiante del <b>SENA</b> • Desarrolladora web en formación <br>
