@@ -58,10 +58,20 @@
 - 🌐 **Portfolio personal** → Sitio web con HTML, CSS y un poco de JavaScript.  
 
 ---
+<p align="center">
+  <img src="https://media.tenor.com/5ry-200hErMAAAAC/hacker-hacker-man.gif" width="180" />
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/S61VCO73mOAAAAAC/programming.gif" width="180" />
+</p>
 <!--<p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
 </p>
 -->
+<p align="center">
+  <img src="https://media.tenor.com/5ry-200hErMAAAAC/hacker-hacker-man.gif" width="180" />
+</p>
 ---
 
 ## 🌐 Encuéntrame en:
