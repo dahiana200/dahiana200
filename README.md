@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Dahiana&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Dahiana+%F0%9F%92%9C;Aprendiz+de+Desarrollo+de+Software;Amante+de+los+gatos+%F0%9F%90%B1;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" />
 </p>
 
 <h1 align="center">✨ Hola, soy Dahiana ✨</h1>
@@ -16,15 +16,11 @@
 
 ## 🌸 Sobre mí
 
-```javascript
 const dahiana = {
-    ubicacion: "Colombia 🇨🇴",
+    ubicacion: "Colombia",
     estudio: "SENA",
-    aprendiendo: ["Node.js", "Express", "MySQL", "PHP"],
-    hobbies: ["Minecraft", "Roblox", "Gatos"],
-    meta: "Convertirme en una gran desarrolladora web"
+    aprendiendo: ["Node.js", "Express", "MySQL", "PHP"]
 }
-```
 
 - 🌱 Actualmente fortaleciendo mis habilidades en desarrollo backend.
 - 📚 Trabajando en proyectos académicos y personales.
